@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidkakov111 a
+- 👋 Hi, I’m @davidkakov111
 
 <!---
 davidkakov111/davidkakov111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
