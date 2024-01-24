@@ -6,7 +6,6 @@ The Python Django Developer with Web3 Focus
 
 I am a self-taught developer specializing in Python and Django, driven by a passion for crafting innovative tech solutions. While my journey has primarily revolved around Python and Django, I am also open to exploring and embracing diverse technologies. I excel in overcoming challenges and continuously refine my skills in both backend and frontend development.
 
-* 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [Portfolio Website](https://web-davidkakov111.vercel.app/)
 * ✉️  You can contact me after logging in on my website's [contact page](https://web-davidkakov111.vercel.app/contact/)
 * 🚀  I'm currently working on my [Solana Mystry Box shop](http://web-davidkakov111.vercel.app/Web3shop/)
