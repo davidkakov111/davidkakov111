@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 The Python Django Developer with Web3 Focus
 -------------------------------------------
 
-I am a self-taught Python Django developer with a passion for creating innovative tech solutions. My software development journey has guided me towards the Python programming language, coupled with the Django framework. I thrive on challenges and consistently hone my expertise in both backend and frontend technologies.
+I am a self-taught developer specializing in Python and Django, driven by a passion for crafting innovative tech solutions. While my journey has primarily revolved around Python and Django, I am also open to exploring and embracing diverse technologies. I excel in overcoming challenges and continuously refine my skills in both backend and frontend development.
 
 * 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [Portfolio Website](https://web-davidkakov111.vercel.app/)
