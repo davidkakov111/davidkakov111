@@ -8,7 +8,7 @@ I am a developer specializing in Python and Django, driven by a passion for craf
 
 * 🖥️  See my portfolio at [Portfolio Website](https://web-davidkakov111.vercel.app/)
 * ✉️  You can contact me after logging in on my website's [contact page](https://web-davidkakov111.vercel.app/contact/)
-* 🚀  I'm currently working on my [Solana Mystry Box shop](http://web-davidkakov111.vercel.app/Web3shop/)
+* 🚀  I'm currently working on my [Solana Mystery Box shop](http://web-davidkakov111.vercel.app/Web3shop/)
 * 🧠  I'm learning from real-world problems because each one is an opportunity for real innovation
 * 🤝  I'm open to collaborating on interesting projects
 
