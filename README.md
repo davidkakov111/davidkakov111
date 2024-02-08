@@ -18,12 +18,13 @@ I am a developer specializing in Python and Django, driven by a passion for craf
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/25275ae6d6f44d433f0212ad2e03fd32b5095f91/react.png" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/201989cf9fc3c706721a34c6c2f1229804efecf9/png-clipart-sqlite-database-android-computer-software-application-software-android-angle-data-thumbnail-removebg-preview.png" width="36" height="36" alt="SQLite"/></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/369d219c32c2ed6b862529257af917b983a79209/download-removebg-preview.png" width="40" height="36" alt="FullStack"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/201989cf9fc3c706721a34c6c2f1229804efecf9/png-clipart-sqlite-database-android-computer-software-application-software-android-angle-data-thumbnail-removebg-preview.png" width="36" height="36" alt="SQLite"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/369d219c32c2ed6b862529257af917b983a79209/download-removebg-preview.png" width="40" height="36" alt="FullStack"/></a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/9509bf02e17a4d4a72d3fde070759e50e0e897c1/Vercel_favicon.svg" width="36" height="36" alt="Vercel"/></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 <a href="https://github.com/michaelhly/solana-py" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/2191eeb84a83978935bff54c588f293fabafd5a7/solana-py-logo-removebg-preview.png" width="36" height="36" alt="Solana py"/></a>
@@ -36,7 +37,6 @@ I am a developer specializing in Python and Django, driven by a passion for craf
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/25275ae6d6f44d433f0212ad2e03fd32b5095f91/mysql.png" width="36" height="36" alt="MySQL" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/25275ae6d6f44d433f0212ad2e03fd32b5095f91/react.png" width="36" height="36" alt="MySQL" /></a>
 </p>
   
 ### Socials
