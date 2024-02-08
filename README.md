@@ -29,15 +29,14 @@ I am a developer specializing in Python and Django, driven by a passion for craf
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/25275ae6d6f44d433f0212ad2e03fd32b5095f91/react.png" width="36" height="36" alt="React" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/990bcb9395c7a82149f4c63b054013c2b12be0d0/tailwind.png" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/9509bf02e17a4d4a72d3fde070759e50e0e897c1/Vercel_favicon.svg" width="36" height="36" alt="Vercel"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/2191eeb84a83978935bff54c588f293fabafd5a7/web3-icon.webp" width="36" height="36" alt="Web3"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/2191eeb84a83978935bff54c588f293fabafd5a7/blockchain-logo-cloud-cryptocurrency-icon-vector-20611001-removebg-preview.png" width="36" height="36" alt="Blockchain"/></a>
+<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 <a href="https://github.com/michaelhly/solana-py" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/2191eeb84a83978935bff54c588f293fabafd5a7/solana-py-logo-removebg-preview.png" width="36" height="36" alt="Solana py"/></a>
 <a href="https://api.arcade.academy/en/latest/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/a46b3ea47a399eca2895e53e429f0887d1cf765a/download-removebg-preview.png" width="36" height="36" alt="Arcade" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/990bcb9395c7a82149f4c63b054013c2b12be0d0/tailwind.png" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 </p>
 
 ### Socials
