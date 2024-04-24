@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dávid Kovács
 ====================================================================================================================================
 
-The Python Django Developer
+About me:
 -------------------------------------------
 
 I am a software developer, driven by a passion for crafting innovative tech solutions. While my journey has primarily revolved around Python (Django) and JavaScript (React), I am also open to exploring and embracing diverse technologies. I excel in overcoming challenges and continuously refine my skills in both backend and frontend development.
