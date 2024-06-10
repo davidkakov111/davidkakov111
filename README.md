@@ -12,7 +12,7 @@ I am an experienced software developer, driven by a passion for crafting innovat
 * 🚀  I'm currently working on my clients needs
 * 🧠  I'm learning from real-world problems because each one is an opportunity for real innovation
 * 🤝  I'm open to collaborating on interesting projects
-* 🛈   I mostly work on Azure, so my GitHub commit history is incomplete.
+* 🛈      I mostly work on Azure, so my GitHub commit history is incomplete.
 
 ### Skills
 
