@@ -19,17 +19,16 @@ I am an experienced software developer, driven by a passion for crafting innovat
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/c8a4a7667a7c402fb7f37a58f880a1a829997a0e/js.png" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-
-
-
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/25275ae6d6f44d433f0212ad2e03fd32b5095f91/mysql.png" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/201989cf9fc3c706721a34c6c2f1229804efecf9/png-clipart-sqlite-database-android-computer-software-application-software-android-angle-data-thumbnail-removebg-preview.png" width="36" height="36" alt="SQLite"/></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/369d219c32c2ed6b862529257af917b983a79209/download-removebg-preview.png" width="40" height="36" alt="FullStack"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+
+
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/369d219c32c2ed6b862529257af917b983a79209/download-removebg-preview.png" width="40" height="36" alt="FullStack"/></a>
+
 
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
