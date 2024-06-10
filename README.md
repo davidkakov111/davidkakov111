@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About me:
 -------------------------------------------
 
-I am a software developer, driven by a passion for crafting innovative tech solutions. While my journey has primarily revolved around Python (Django) and JavaScript (React), I am also open to exploring and embracing diverse technologies. I excel in overcoming challenges and continuously refine my skills in both backend and frontend development.
+I am an experienced software developer, driven by a passion for crafting innovative tech solutions. I excel in overcoming challenges and continuously refine my skills in both backend and frontend development.
 
 * 🖥️  See my portfolio at [Portfolio Website](https://web-davidkakov111.vercel.app/)
 * ✉️  You can contact me after logging in on my website's [contact page](https://web-davidkakov111.vercel.app/contact/)
-* 🚀  I'm currently working on my [Solana Mystery Box shop](http://web-davidkakov111.vercel.app/Web3shop/)
+* 💣  My biggest personal project is the [Solana Mystery Box shop](http://web-davidkakov111.vercel.app/Web3shop/)
+* 🚀  I'm currently working on my clients needs
 * 🧠  I'm learning from real-world problems because each one is an opportunity for real innovation
 * 🤝  I'm open to collaborating on interesting projects
 
