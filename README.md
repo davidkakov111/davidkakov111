@@ -8,9 +8,9 @@ I am an experienced software developer, driven by a passion for crafting innovat
 
 * 🚀  I'm currently working on my clients needs
 * 🤝  I'm open to collaborating on interesting projects
-* 🖥️  See my portfolio at [Portfolio Website](https://web-davidkakov111.vercel.app/)
-* ✉️  You can contact me on my website's [contact page](https://web-davidkakov111.vercel.app/contact/)
-* 💣  My biggest personal project is the [Solana Mystery Box shop](http://web-davidkakov111.vercel.app/Web3shop/)
+* 🖥️  See my portfolio at [Portfolio Website](https://davidkovacs.vercel.app/)
+* ✉️  You can contact me on my website's [contact page](https://davidkovacs.vercel.app/contact/)
+* 💣  My biggest personal project is the [Solana Mystery Box shop](http://davidkovacs.vercel.app/Web3shop/)
 * 🧠  I'm learning from real-world problems because each one is an opportunity for real innovation
 * 📌  I mostly work on Azure, so my GitHub commit history is incomplete
 
