@@ -5,7 +5,7 @@ About me:
 -------------------------------------------
 
 I am an experienced software developer, driven by a passion for crafting innovative tech solutions. I excel in overcoming challenges and continuously refine my skills in both backend and frontend development.
-
+ 
 * 🚀  I'm currently working on my clients needs
 * 🤝  I'm open to collaborating on interesting projects
 * 🖥️  See my portfolio at [Portfolio Website](https://davidkovacs.vercel.app/)
