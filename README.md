@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
  
 About me: 
--------------------------------------------
+------------------------------------------- 
 
 I am an experienced software developer, driven by a passion for crafting innovative tech solutions. I excel in overcoming challenges and continuously refine my skills in both backend and frontend development.
  
