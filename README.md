@@ -9,7 +9,7 @@ I am an experienced software developer, driven by a passion for crafting innovat
 * 🚀  I'm currently working on my clients needs
 * 🤝  I'm open to collaborating on interesting projects
 * 🖥️  See my portfolio at [Portfolio Website](https://davidkovacs.vercel.app/)
-* ✉️  You can contact me on my website's [contact page](https://davidkovacs.vercel.app/contact/)
+* ✉️  You can contact me on my website's [contact page](https://davidkovacs.vercel.app/contact/) 
 * 💣  My bigest personal project is [ChainPortal](http://davidkovacs.vercel.app/chainportal/) 
 * 🧠  I'm learning from real-world problems because each one is an opportunity for real innovation 
 * 📌  I mostly work on GitLab and Azure, so my GitHub commit history is incomplete
