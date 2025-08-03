@@ -14,6 +14,32 @@ I am an experienced software developer, driven by a passion for crafting innovat
 * 🧠  I'm learning from real-world problems because each one is an opportunity for real innovation 
 * 📌  I mostly work on GitLab and Azure, so my GitHub commit history is incomplete
 
+
+
+
+
+
+
+
+I'm a full-stack developer passionate about building clean, scalable web applications using modern JavaScript/TypeScript stacks.
+
+### 🔧 What I'm up to:
+- 🚀 Currently building production apps for scientific and commercial clients
+- 💣 My biggest personal project: [ChainPortal](https://davidkovacs.vercel.app/chainportal/) — a multi-chain Web3 platform
+- 📌 Most of my daily work is on GitLab and Azure DevOps (GitHub history is not complete)
+- 🤝 Open to freelance or collaboration on interesting, impactful projects
+- 🖥️ [Portfolio](https://davidkovacs.vercel.app) — includes live demos and project breakdowns
+- ✉️ [Contact me](https://davidkovacs.vercel.app/contact/) if you’d like to work together
+
+
+
+
+
+
+
+
+
+
 ### Skills
 
 <p align="left">
