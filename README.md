@@ -4,23 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About me:  
 ------------------------------------------- 
 
-I am an experienced software developer, driven by a passion for crafting innovative tech solutions. I excel in overcoming challenges and continuously refine my skills in both backend and frontend development.
- 
-* 🚀  I'm currently working on my clients needs
-* 🤝  I'm open to collaborating on interesting projects
-* 🖥️  See my portfolio at [Portfolio Website](https://davidkovacs.vercel.app/)
-* ✉️  You can contact me on my website's [contact page](https://davidkovacs.vercel.app/contact/) 
-* 💣  My bigest personal project is [ChainPortal](http://davidkovacs.vercel.app/chainportal/) 
-* 🧠  I'm learning from real-world problems because each one is an opportunity for real innovation 
-* 📌  I mostly work on GitLab and Azure, so my GitHub commit history is incomplete
-
-
-
-
-
-
-
-
 I'm a full-stack developer passionate about building clean, scalable web applications using modern JavaScript/TypeScript stacks.
 
 ### 🔧 What I'm up to:
@@ -30,15 +13,6 @@ I'm a full-stack developer passionate about building clean, scalable web applica
 - 🤝 Open to freelance or collaboration on interesting, impactful projects
 - 🖥️ [Portfolio](https://davidkovacs.vercel.app) — includes live demos and project breakdowns
 - ✉️ [Contact me](https://davidkovacs.vercel.app/contact/) if you’d like to work together
-
-
-
-
-
-
-
-
-
 
 ### Skills
 
