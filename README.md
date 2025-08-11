@@ -5,7 +5,7 @@ About me:
 ------------------------------------------- 
 
 I'm a full-stack developer passionate about building clean, scalable web applications using modern JavaScript/TypeScript stacks.
-
+ 
 ### 🔧 What I'm up to:
 - 🚀 Currently building production apps for scientific and commercial clients 
 - 💣 My biggest personal project: [ChainPortal](https://davidkovacs.vercel.app/chainportal/) — a multi-chain Web3 platform
