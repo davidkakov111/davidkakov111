@@ -8,7 +8,7 @@ I'm a full-stack developer passionate about building clean, scalable web applica
  
 ### 🔧 What I'm up to:
 - 🚀 Currently building production apps for scientific and commercial clients 
-- 💣 My biggest personal project: [ChainPortal](https://davidkovacs.vercel.app/chainportal/) — a multi-chain Web3 platform
+- 💣 My biggest personal project: [ChainPortal](https://davidkovacs.vercel.app/?project=chainportal) — a multi-chain Web3 platform
 - 📌 Most of my daily work is on GitLab and Azure DevOps (GitHub history is not complete)
 - 🤝 Open to collaboration as an employee, freelancer, or contractor on interesting and impactful projects.
 - 🖥️ [Portfolio](https://davidkovacs.vercel.app) — showcases my projects, experiences, and links to live demos.
