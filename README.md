@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
   
 About me:   
-------------------------------------------- 
+-------------------------------------------  
  
 I'm a full-stack developer passionate about building clean, scalable web applications using modern JavaScript/TypeScript stacks.
  
