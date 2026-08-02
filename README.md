@@ -8,10 +8,10 @@ I'm a Full-Stack Developer building AI-powered software, workflow automation sys
  
 ### 🔧 What I'm up to: 
 - 🚀 Building AI-powered and full-stack software for commercial and space industry applications
-- 🧠 Recent personal projects include AI-powered applications, workflow automation, and Web3 platforms.
+- 🧠 Recent personal projects include AI-powered applications, workflow automation, and Web3 platforms
 - 📌 Most of my daily work is on GitLab (GitHub history is not complete)
-- 🤝 Open to collaboration as an employee, freelancer, or contractor on interesting and impactful projects. 
-- 🖥️ [Portfolio](https://davidkovacs.vercel.app) — showcases my experiences, projects, and links to live demos.
+- 🤝 Open to collaboration as an employee, freelancer, or contractor on interesting and impactful projects
+- 🖥️ [Portfolio](https://davidkovacs.vercel.app) — showcases my experiences, projects, and links to live demos
 - ✉️ [Contact me](mailto:kovacs.cs.david@gmail.com) if you’d like to work together
 
 ### Skills
