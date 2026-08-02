@@ -29,7 +29,10 @@ I'm a Full-Stack Developer building AI-powered software, workflow automation sys
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/25275ae6d6f44d433f0212ad2e03fd32b5095f91/mysql.png" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="AI" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+   
 <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/369d219c32c2ed6b862529257af917b983a79209/download-removebg-preview.png" width="40" height="36" alt="FullStack"/></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/davidkakov111/davidkakov111/blob/2191eeb84a83978935bff54c588f293fabafd5a7/web3-icon.webp" width="36" height="36" alt="Web3"/></a>
 </p>
