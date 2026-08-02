@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About me:   
 -------------------------------------------    
     
-I'm a full-stack developer passionate about building clean, scalable web applications using modern JavaScript/TypeScript stacks.
+I'm a Full-Stack Developer building AI-powered software, workflow automation systems, and scalable web applications within the TypeScript ecosystem. I enjoy solving complex engineering problems and turning manual business processes into efficient software solutions.
  
 ### 🔧 What I'm up to: 
-- 🚀 Currently building production apps for scientific and commercial clients 
-- 💣 My biggest personal project: [ChainPortal](https://davidkovacs.vercel.app/?project=chainportal) — a multi-chain Web3 platform
-- 📌 Most of my daily work is on GitLab and Azure DevOps (GitHub history is not complete)
+- 🚀 Building AI-powered and full-stack software for commercial and space industry applications
+- 🧠 Recent personal projects include AI-powered applications, workflow automation, and Web3 platforms.
+- 📌 Most of my daily work is on GitLab (GitHub history is not complete)
 - 🤝 Open to collaboration as an employee, freelancer, or contractor on interesting and impactful projects. 
-- 🖥️ [Portfolio](https://davidkovacs.vercel.app) — showcases my projects, experiences, and links to live demos.
+- 🖥️ [Portfolio](https://davidkovacs.vercel.app) — showcases my experiences, projects, and links to live demos.
 - ✉️ [Contact me](mailto:kovacs.cs.david@gmail.com) if you’d like to work together
 
 ### Skills
