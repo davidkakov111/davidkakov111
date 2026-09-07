@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David
 ==================================================================================================================================== 
    
-About me:   
+About me:    
 -------------------------------------------    
     
 I'm a Full-Stack Developer building AI-powered software, workflow automation systems, and scalable web applications within the TypeScript ecosystem. I enjoy solving complex engineering problems and turning manual business processes into efficient software solutions.
