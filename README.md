@@ -6,7 +6,7 @@ About me:
     
 I'm a Full-Stack Developer building AI-powered software, workflow automation systems, and scalable web applications within the TypeScript ecosystem. I enjoy solving complex engineering problems and turning manual business processes into efficient software solutions.
  
-### 🔧 What I'm up to: 
+### 🔧 What I'm up to:  
 - 🚀 Building AI-powered and full-stack software for commercial and space industry applications
 - 🧠 Recent personal projects include AI-powered applications, workflow automation, and Web3 platforms
 - 📌 Most of my daily work is on GitLab (GitHub history is not complete)
